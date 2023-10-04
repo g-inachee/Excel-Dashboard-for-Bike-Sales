@@ -1,2 +1,2 @@
 # Excel-Dashboard-for-Bike-Sales
-This is an interactive Excel dashboard for the sales of bikes. This project involves Data Cleaning, Pivot Tables, Charts, and Dashboard. 
+In this project, I've developed an interactive Excel dashboard that delves deeper into analyzing various consumer segments interested in using bicycles for their daily commute. 
